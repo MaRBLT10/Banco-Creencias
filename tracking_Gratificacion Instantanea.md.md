@@ -4,9 +4,9 @@
 | # | Creencia Limitante | Creencia Correcta | Fecha |
 |---|-------------------|-------------------|-------|
 | 1 | "en realidad, si disfruto esto" | El goce de estas actividades es un alivio falso | 2026-06-16 |
+| 2 | "es solo un rato" | Ese rato destruye la mañana que soñé | 2026-06-26 |
 
 ## Creencias disponibles
-- "es solo un rato"
 - "es una vez sola"
 - "lo necesito"
 - "no tengo mas para hacer"
@@ -20,4 +20,4 @@
 - "las personas constantes tienen algo que yo no tengo"
 - "si empiezo y lo dejo es un fracaso asegurado, al pedo empezar"
 
-## Total: 1/14
+## Total: 2/14
